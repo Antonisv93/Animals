@@ -1,0 +1,46 @@
+img{
+    width:25%;
+    height:30%;
+    float:left;
+
+}
+body{
+    background:#6058A3;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Source Serif 4', sans-serif;
+    font-size:30px;
+
+}
+h1, h2, h3{
+    color:white; 
+    background:#2B4A6F;
+    text-align:center;
+   
+    
+    
+}
+
+.col{
+    display:flex;
+
+}
+.container{
+    margin-left:auto;
+    margin-right:auto;
+}
+p{
+    float:right;
+    padding-left:3em;
+    background:#2B4A6F;
+    margin-top:-0.08em;
+    padding-bottom:28px;
+    
+}
+.btn{
+    color:#557397;
+}
+.btn:hover,
+.btn:focus{
+    color:#1C1749;
+
+}

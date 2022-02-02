@@ -1,0 +1,33 @@
+body{
+    background:#303C74;
+}
+
+li{
+    color:white;
+    font-size:25px;
+}
+    h1{
+        font-size: 33px;
+        float:left;
+        color:white;
+        font-size:25px;
+    
+}
+img{
+    height:50%;
+    width:50%;
+}
+.col{
+    display:flex;
+}
+.container{
+    display:flex;
+}
+.btn{
+    color:#557397;
+}
+.btn:hover,
+.btn:focus{
+    color:#1C1749;
+
+}
